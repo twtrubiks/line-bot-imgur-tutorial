@@ -80,6 +80,14 @@ client = ImgurClient(client_id, client_secret, access_token, refresh_token)
 * [line-bot-sdk-python](https://github.com/line/line-bot-sdk-python)
 * [imgurpython](https://github.com/Imgur/imgurpython)
 
+## Donation
+
+文章都是我自己研究內化後原創，如果有幫助到您，也想鼓勵我的話，歡迎請我喝一杯咖啡:laughing:
+
+![alt tag](https://i.imgur.com/LRct9xa.png)
+
+[贊助者付款](https://payment.opay.tw/Broadcaster/Donate/9E47FDEF85ABE383A0F5FC6A218606F8)
+
 ## License
 
 MIT license
