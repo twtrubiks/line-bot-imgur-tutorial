@@ -72,7 +72,7 @@ client = ImgurClient(client_id, client_secret, access_token, refresh_token)
 
 ## 執行環境
 
-* Python 3.6.2
+* Python 3.9
 
 ## Reference
 
